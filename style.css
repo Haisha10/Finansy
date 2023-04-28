@@ -84,6 +84,7 @@ body {
     color: #fffdfc;
     text-transform: uppercase;
     margin-bottom: 20px;
+    text-shadow: 6px 6px 4px rgba(0,0,0,0.6);
 }
 
 .header-txt p {
@@ -396,7 +397,7 @@ h2 {
 
     .header-txt h1 {
         font-size: 50px;
-
+        text-shadow: 6px 6px 4px rgba(0,0,0,0.6);
     }
 
     .header-txt p {
